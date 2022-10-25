@@ -1,0 +1,74 @@
+thead{
+  background-color: blue;
+}
+.navbar{
+  padding: 0;
+}
+.navbar-brand{
+  color: #fff;
+}
+.รูป{
+  padding: .1rem;
+width: 250px;
+height: 250px;
+transition: .4s;
+}
+.รูป:hover{
+  width: 280px;
+  height: 280px;
+}
+.jj{
+  background:	#696969;
+  margin: 0;
+  width: 100%;
+
+}
+.ผลงาน{
+  padding: .1rem;
+width: 250px;
+height: 250px;
+transition: .4s;
+}
+.ผลงาน:hover{
+  width: 280px;
+  height: 280px;
+}
+.ติดต่อ{
+text-align: center;
+
+  padding: .1rem;
+  font-size: 24px;
+  background-color: #696969;
+  color: #fff;
+  transition: .4s
+}
+.ติดต่อ:hover{
+  text-align: right;
+  background-color: aqua;
+  color: blue;
+  font-size: 25px;
+}
+.container-fluid{
+  background-color:#696969;
+  padding: 1rem;
+color: #fff;
+}
+.พื้นหลัง{
+  background-color: 	#FFEBCD;
+
+}
+.เฟส{
+  text-align: center;
+}
+.ig{
+  text-align: center;
+  padding: .1rem;
+  font-size: 24px;
+  background-color: #ACFFC0;
+  transition: 1s;
+}
+.ig:hover{
+  background-color: red;
+  color: green;
+  font-size: 30px;
+}
